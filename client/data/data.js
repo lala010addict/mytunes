@@ -19,5 +19,20 @@ var songData = [
     url: "https://s3-us-west-1.amazonaws.com/hr-mytunes/data/06+If+Your+Girl+Only+Knew.mp3",
     title: "If Your Girl Only Knew",
     artist: "Aaliyah",
+  },
+   {
+    url: "data/iwonder.mp3",
+    title: "I Wonder",
+    artist: "Bobby",
+  },
+   {
+    url: "data/lovesong.mp3",
+    title: "Love Song",
+    artist: "Fang",
+  },
+   {
+    url: "data/ourstory.mp3",
+    title: "Our Story",
+    artist: "Tao",
   }
 ];
