@@ -29,6 +29,11 @@ var songData = [
     url: "data/lovesong.mp3",
     title: "Love Song",
     artist: "Fang",
+  },
+   {
+    url: "data/timeflies.mp3",
+    title: "Time Flies",
+    artist: "Zhang",
   }
 
 ];
