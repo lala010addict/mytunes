@@ -28,6 +28,12 @@ var SongQueue = Songs.extend({
 
   playFirst: function() {
     this.first().play();
+  },
+  replay: function() {
+    this.shift()
+    if (this.length < 0) {
+      this.playLast();
+    }
   }
 
 
